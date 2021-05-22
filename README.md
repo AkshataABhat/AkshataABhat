@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, 
+This is Akshata Bhat. I am a first-year CSE Undergraduate student at VIT,Vellore.
 
 
 
