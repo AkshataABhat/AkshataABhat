@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@akshatabhat.a2020](https://medium.com/@akshatabhat.a2020)
 -  📫 I am a Microsoft Learn Student Ambassador **https://studentambassadors.microsoft.com/**
-- 📫 How to reach me **https://www.linkedin.com/in/akshata-b-342a261bb/**
+- 📫 How to reach me **https://www.linkedin.com/in/akshata-a-342a261bb/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
