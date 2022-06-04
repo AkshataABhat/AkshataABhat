@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshataabhat&label=Profile%20views&color=0e75b6&style=flat" alt="akshataabhat" /> </p>
 <h3 aligh=left">🔗Portfolio Website: (https://akshatabhat.vercel.app/)<h3/>
 - 📝 I regularly write articles on (https://medium.com/@akshatabhat.a2020)
+               
 - 📫 I am a Microsoft Learn Student Ambassador
+               
 - 📫 How to reach me (https://www.linkedin.com/in/akshata-a-342a261bb/)
 
 <h3 align="left">Connect with me:</h3>
