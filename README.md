@@ -1,7 +1,7 @@
 # Hello Everyone!👩‍💻 I'm Akshata😀
 
 
-## **I am majoring in CS from VIT, Vellore in 2024. **
+## I am majoring in CS from VIT, Vellore in 2024. 
 
 
 ![](https://komarev.com/ghpvc/?username=AkshataABhat)
