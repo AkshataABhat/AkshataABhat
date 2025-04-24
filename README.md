@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshataabhat" alt="akshataabhat" /></a> </p>
 
-- 🔭 I’m currently working on **finetuning LLMs**
 
-- 👯 I’m looking to collaborate on **reasearch papers**
 
 
 - 📫 How to reach me **akshatavidisha@gmail.com**
 
 
-- ⚡ Fun fact **I speak 6 languages**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
